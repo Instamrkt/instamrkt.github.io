@@ -1,3 +1,4 @@
+<h1> Removed from public docs at https://instamrkt.github.io on 2020-04-11</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/lord/img/master/logo-slate.png" alt="Slate: API Documentation Generator" width="226">
   <br>
